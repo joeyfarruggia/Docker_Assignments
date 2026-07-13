@@ -1,0 +1,9 @@
+student:
+  name: Joey Farruggia
+  course: Docker Assignments
+  age: 20
+  skills:
+    - Python
+    - Docker
+    - YAML
+  enrolled: true
